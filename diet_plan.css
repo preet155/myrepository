@@ -1,0 +1,29 @@
+.flex-container-1{
+    display: flex;
+    height:300px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin: 50px auto;
+}
+
+.flex-container-1 div{
+    height:300px;
+    width:50%;
+    text-align: center;
+    color:white;
+    margin: 10px;
+    padding: 40px;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: 2px solid black;
+}
+
+.box-1{
+    background-color: steelblue;
+}
+
+.box-2{
+    background-color: darkblue;
+}
+
